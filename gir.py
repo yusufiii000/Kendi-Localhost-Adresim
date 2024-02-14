@@ -54,7 +54,7 @@ ipaddr = socket.gethostbyname(hostnm)
 
 print("\nKendi LocalHost Adresim:", ipaddr)
 print('')
-b=int(input('Çıkmak İçin 2 ye Basın'))
+b=int(input('Çıkmak İçin 2 ye Basın == '))
 print('')
 
 
