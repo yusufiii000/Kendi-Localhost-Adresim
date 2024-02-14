@@ -2,13 +2,13 @@ Kurulum
 
 Termux;
 
-uygun güncelleme && uygun yükseltme
+apt update && apt upgrade 
 
-pkg git'i yükle
+pkg install git
 
-pkg python'u yükle
+pkg install python
 
-git klonu https://github.com/yusufiii000/Kendi-Localhost-Adresim
+git clonehttps://github.com/yusufiii000/Kendi-Localhost-Adresim
 
 cd Kendi-Localhost-Adresim
 
@@ -18,5 +18,5 @@ python3 gir.py
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-Üsteki kopyalayıp termux a bulunur.
+Üsteki kopyalayıp termux a yapıştırın.
 
