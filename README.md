@@ -8,7 +8,7 @@ pkg install git
 
 pkg install python
 
-git clonehttps://github.com/yusufiii000/Kendi-Localhost-Adresim
+git clone https://github.com/yusufiii000/Kendi-Localhost-Adresim
 
 cd Kendi-Localhost-Adresim
 
