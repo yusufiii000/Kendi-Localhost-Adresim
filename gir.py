@@ -53,6 +53,10 @@ hostnm = socket.gethostname()
 ipaddr = socket.gethostbyname(hostnm)
 
 print("\nKendi LocalHost Adresim:", ipaddr)
+print('')
+b=int(input('Çıkmak İçin 2 ye Basın'))
+print('')
+
 
 
 print('Cıkış Yapılıyor')
