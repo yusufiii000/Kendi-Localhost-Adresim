@@ -18,5 +18,8 @@ python3 gir.py
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
+Önemli Not;Arkadaşlar sayıya bastıktan enter basın.
+
+
 Üsteki kopyalayıp termux a yapıştırın.
 
